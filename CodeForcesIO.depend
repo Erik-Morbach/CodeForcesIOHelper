@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1587489003 source:/home/erik/Projetos/CodeForcesIO/HTMLUtil.cpp
+
+1587563644 source:/home/erik/Projetos/CodeForcesIO/main.cpp
+	<iostream>
+	"File.h"
+	"HTML.h"
+	"ContestUtils.h"
+
+1587490051 /home/erik/Projetos/CodeForcesIO/File.cpp
+	"File.h"
+
+1587563899 /home/erik/Projetos/CodeForcesIO/File.h
+	<fstream>
+	<string>
+	<iostream>
+
+1587575724 source:/home/erik/Projetos/CodeForcesIO/File.cpp
+	"File.h"
+
+1587549224 /home/erik/Projetos/CodeForcesIO/HTML.h
+	<string>
+	<fstream>
+	<vector>
+	<string_view>
+	<functional>
+	"File.h"
+
+1587564136 source:/home/erik/Projetos/CodeForcesIO/HTML.cpp
+	"HTML.h"
+
+1587549245 source:/home/erik/Projetos/CodeForcesIO/ContestUtils.cpp
+	"ContestUtils.h"
+
+1587511813 /home/erik/Projetos/CodeForcesIO/ContestUtils.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	"HTML.h"
+
